@@ -1,0 +1,117 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+ul{
+    display: flex;
+    width: 100%;
+    float: right;
+    justify-content: right;
+}
+li{
+    list-style: none;
+    margin: 20px;
+    font-size: 20px;
+}
+.header{
+    background-color: black;
+    color: white;
+    height: 100px;
+}
+.logo{
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+    margin-left: 200px;
+}
+.logofont{
+    font-size: 40px;
+}
+.page1{
+    background: url('./images/WhatsApp\ Image\ 2022-11-25\ at\ 9.11.24\ PM\ \(4\).jpeg');
+    height: 600px;
+    width: 100%;
+}
+.pagg1{
+    display: flex;
+    margin-top: 100px;
+}
+.img1{
+    height: 500px;
+    width: 300px;
+    margin-left: 300px;
+}
+.btn1{
+    height: 5vh;
+    width: 18vw;
+    border-radius: 10px;
+}
+.hg1{
+    color: black;
+    float: right;
+    margin-left: 300px;
+    margin-top: 200px;
+    font-size: 40px;
+    justify-content: center;
+}
+.page2{
+    text-align: center;
+    font-size: 30px;
+    padding: 40px;
+}
+.mm{
+    margin: 10px;
+}
+.page2div{
+    display: flex;
+    gap: 40px;
+    padding: 40px;
+}
+.opt{
+    border-radius: 0%;
+    text-align: center;
+    margin: 20px;
+    font-size: 25px;
+}
+.textx{
+    font-size: 20px;
+}
+.page4{
+    background: url('./images/WhatsApp\ Image\ 2022-11-25\ at\ 9.11.24\ PM\ \(4\).jpeg');
+    height: 500px;
+    width: 100%;
+    font-size: 50px;
+    color:black;
+    text-align: center;
+}
+.text4{
+    margin-top: 50px;
+}
+.page5{
+    background-color: blueviolet;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    opacity: 0.5;
+    height: 300px;
+    width: 100%;
+}
+.text0{
+    margin-top: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    gap: 250px;
+    height:150px;
+    padding: 20px;
+    width: 100%;
+}
+.logo2{
+    height: 40px;
+    width: 40px;
+}
+.logofont2{
+    font-size: 30px;
+}
